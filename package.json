@@ -1,0 +1,44 @@
+{
+    "name": "dark-star-pro",
+    "author": "Vijval",
+    "publisher": "Vijval",
+    "displayName": "Dark Star Pro",
+    "description": "Dark 🌟 Pro",
+    "repository": "https://github.com/vijval2010/Dark-Star-Pro/",
+    "icon": "Images/Main.jpg",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark",
+        "Dark Theme",
+        "Star",
+        "Pro",
+        "Dark Star Pro",
+        "Dark background",
+        "Colour theme",
+        "Syntax highting theme",
+        "Black",
+        "Black theme",
+        "Dark Hero",
+        "Dark Hero theme",
+        "Black Star",
+        "Black Star Pro",
+        "Black hero",
+        "Black Hero Pro"
+    ],
+    "license": "MIT",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Star Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Star Pro.json"
+            }
+        ]
+    }
+}
