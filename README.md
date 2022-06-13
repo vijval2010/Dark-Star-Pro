@@ -14,7 +14,7 @@
 # Appling the colour theme:
 1. Install npm
 2. Install vsce by typing "npm install -g vsce" in cmd
-3. open VSCode integrated terminal and type "code --install-extension dark-star-pro-1.0.0.vsix"
+3. open VSCode integrated terminal and type "code --install-extension dark-star-pro-[version number of this theme].vsix"
 4. Smash the enter button
 
 # Others:
