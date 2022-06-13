@@ -12,12 +12,10 @@
 3. Smash the enter button.
 
 # Appling the colour theme:
-1. Select the Manage (bottom left) > Color Theme ＞ Dark Star Pro.
-                                    (OR)
-1. Press ctrl+k,t and select Dark Star Pro
-
-1. Press ctrl+k,t and select Dark Star Pro
-2. Smash the enter button.
+1. Install npm
+2. Install vsce by typing "npm install -g vsce" in cmd
+3. open VSCode integrated terminal and type "code --install-extension dark-star-pro-1.0.0.vsix"
+4. Smash the enter button
 
 # Others:
 1. This theme works best with Victor mono font with ligatures
