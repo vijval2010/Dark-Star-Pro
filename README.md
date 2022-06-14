@@ -1,4 +1,4 @@
-![GUI](https://github.com/vijval2010/Dark-Star-Pro/Images/GUI.jpg)
+![GUI](https://raw.githubusercontent.com/vijval2010/Dark-Star-Pro/main/Images/GUI.jpg)
 
 ## Made mostly with "themes.vscode.one"
 
